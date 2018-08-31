@@ -1,2 +1,3 @@
 # MyGraphBed
 个人的有道云笔记markdown图床
+将网址中blob改为raw,这就是你的图片外链地址了
